@@ -1,0 +1,20 @@
+#Deployment Plugin Project File
+#Fri Jun 16 21:55:28 IST 2017
+build.ant.name=<.>/resources/dp/mymqtt_build.xml
+build.dp.file=<.>/resources/dp/mymqtt.dp
+build.location=
+bundles.0.bundle_path=/home/vibhor/workspace_newkura/plugins/plugins/org.eclipse.kura.example.mymqtt_1.0.0.201706162145.jar
+bundles.0.customizer=false
+bundles.0.headers.count=0
+bundles.0.missing=false
+bundles.0.name=bundles/org.eclipse.kura.example.mymqtt_1.0.0.201706162145.jar
+bundles.0.symbolic_name=org.eclipse.kura.example.mymqtt
+bundles.0.version=1.0.0.201706162145
+bundles.count=1
+certificates.count=0
+general.signbundles=false
+headers.other.headers=
+headers.symbolic.name=mymqtt
+headers.version=1.0.0
+resources.count=0
+
